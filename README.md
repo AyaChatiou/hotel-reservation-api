@@ -1,6 +1,6 @@
 # Hotel Reservation API
 
-![CI](https://github.com/aya-chatiou/hotel-reservation-api/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/AyaChatiou/hotel-reservation-api/actions/workflows/ci.yml/badge.svg)
 ![Python](https://img.shields.io/badge/python-3.11%20%7C%203.12-blue)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.115-009688)
 ![License](https://img.shields.io/badge/license-MIT-green)
